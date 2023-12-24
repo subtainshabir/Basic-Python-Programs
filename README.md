@@ -16,6 +16,9 @@
 * Write prgram to check weather Year is Leap or Not
 * Check weather a number is Prime or Not
 * Write Program to print Prime number interval 1-10
+* Find Factorial of Number
+* Code to show multiplication table
+* Code to Print Fibonacci Series
 
 ## 🔗 Links
 
